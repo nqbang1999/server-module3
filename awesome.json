@@ -1,0 +1,22 @@
+{
+  "awesomes": [
+    {
+      "id": 5,
+      "tag": "html",
+      "url": "https://html5doctor.com",
+      "descriptions": "Rất nhiều best pratice để xử lý các tình huống nhỏ thường gặp của html5"
+    },
+    {
+      "id": 6,
+      "tag": "a",
+      "url": "b",
+      "descriptions": "c"
+    },
+    {
+      "tag": "Bang",
+      "url": "1",
+      "descriptions": "1",
+      "id": 7
+    }
+  ]
+}
